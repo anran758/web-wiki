@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0a1b2b96347f09c32f3fa88e2b59f39a"
+    "revision": "0e171ab95843f1731209e31517d85563"
   },
   {
     "url": "assets/css/0.styles.1c7d6a0d.css",
@@ -70,12 +70,12 @@ self.__precacheManifest = [
     "revision": "f475b377c8013f2fe9a60f671f321098"
   },
   {
-    "url": "assets/js/app.4b9d49d7.js",
-    "revision": "2b5d44ee0d0d0c57a33797fb95bc97fd"
+    "url": "assets/js/app.79d87e51.js",
+    "revision": "b20b4749a223b775b9de4e1bf8149807"
   },
   {
     "url": "develop/front-end/index.html",
-    "revision": "c77bf652ad34b37de7e3ef6e58dc1b8b"
+    "revision": "81b6d0e14021cc0a7a70ea0c3c02731d"
   },
   {
     "url": "hero.png",
@@ -135,11 +135,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fe177ec5b0563fca3a311382b2370a1e"
+    "revision": "7ef51ee6cb1f1f975436ce5ba8ece655"
   },
   {
     "url": "product/index.html",
-    "revision": "928ac41c5c2b8d3222cb0b1a946c147e"
+    "revision": "d3f21225def18ced0405d5ee0957a9ca"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
