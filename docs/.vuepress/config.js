@@ -67,6 +67,7 @@ module.exports = ctx => ({
   themeConfig: {
     repo: "https://github.com/anran758/web-wiki",
     editLinks: true,
+    docsDir: 'docs',
     // algolia: ctx.isProd
     //   ? { apiKey: "", indexName: "vuepress" }
     //   : null,
